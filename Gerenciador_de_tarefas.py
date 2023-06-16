@@ -6,7 +6,7 @@
 import PySimpleGUI as sg  # Importa a biblioteca PySimpleGUI com o alias sg
 
 def criar_nova_tarefa():
-    sg.theme('DarkBlue4')  # Define o tema da janela como 'DarkBlue4', podemos definie varias paletas de cores podem ser: 'DefaultNoMoreNagging',
+    sg.theme('DarkBlue4')  # Define o tema da janela como 'DarkBlue4', podemos definir varias paletas de cores podem ser: 'DefaultNoMoreNagging',
 #'GreenTan','Dark','DarkAmber','DarkBlue','DarkBlue2','DarkBlue3','DarkBlue4','DarkBrown','DarkBrown2','DarkBrown3','DarkGrey','DarkGrey2','DarkGrey3',
 #'DarkGrey4','DarkPurple','DarkPurple2','DarkPurple3','DarkPurple4','LightGreen','LightGreen2','LightGreen3','LightGreen4','LightGrey','LightGrey2',
 #'LightGrey3','LightGrey4','LightRed','LightRed2','LightRed3'e'LightRed4'.Essas são apenas algumas das opções disponíveis. 
